@@ -1,4 +1,4 @@
-module github.com/modsdemo/dep7
+module github.com/modsdemo/dep7/v2
 
 go 1.12
 
